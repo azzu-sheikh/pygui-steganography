@@ -1,6 +1,6 @@
 # pygui-steganography
 
-pygui-steganography is a Python-based GUI application that allows users to perform steganography, which is the practice of concealing data within other data. This application is built on top of the [LSB-Steganography](https://github.com/RobinDavid/LSB-Steganography) project and provides a user-friendly interface for encoding and decoding data using the Least Significant Bit (LSB) technique.
+pygui-steganography is a Python-based GUI application that allows users to perform steganography, which is the practice of concealing data within other data. project and provides a user-friendly interface for encoding and decoding data using the Least Significant Bit (LSB) technique.
 
 ## Features
 
@@ -76,15 +76,3 @@ The following changes and additions have been made to the original LSB-Steganogr
 - Organized the codebase into separate modules for better maintainability.
 - Introduced a styles module for consistent styling of UI elements.
 - Created utility functions for displaying error and success messages.
-
-
-
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- Original LSB-Steganography project: [RobinDavid/LSB-Steganography](https://github.com/RobinDavid/LSB-Steganography)
-- PyQt5 documentation: [PyQt5 Reference Guide](https://doc.qt.io/qtforpython/)
